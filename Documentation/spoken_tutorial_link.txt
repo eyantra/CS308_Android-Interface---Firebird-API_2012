@@ -1,0 +1,4 @@
+Due to some reasons we were unable to upload the spoken tutorial video to YouTube in spite of trying multiple times. So right now we have uploaded the video to our GitHub repo. Please view the video from there. We will send you the YouTube link once we are able to successfully upload it.
+
+
+Repo: https://github.com/pararthshah/android_interface_firebird_api_group2_cs308_2012
